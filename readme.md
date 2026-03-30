@@ -7,7 +7,7 @@ This project demonstrates production-level backend engineering concepts includin
 
 ## 🎥 Demo
 
-    https://github.com/user-attachments/assets/your-video-id
+    ▶️ [Click here to watch the demo](https://drive.google.com/file/d/1VLSOWpyvcRcliLOlWWfXADr2N4J_ALQg/view)
 
 > 📌 If video doesn’t play, download `vid.mp4` from the repo.
 
